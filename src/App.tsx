@@ -80,27 +80,27 @@ const classInfo: ClassInfo[] = [
   },
   {
     name: "레귤러,브릿지,두잇(월수금)",
-    price: 310000,
+    price: 330000,
     days: [1, 3, 5],
   },
   {
     name: "링크, 레귤러-s(화목)",
-    price: 310000,
+    price: 330000,
     days: [2, 4],
   },
   {
     name: "링크-w(수금)",
-    price: 310000,
+    price: 330000,
     days: [3, 5],
   },
   {
     name: "프레스티지(월금)",
-    price: 310000,
+    price: 330000,
     days: [1, 5],
   },
   {
     name: "링크-t, 레귤러-t, 브릿지-t, 슈페리얼-t, 두잇-t(화목)",
-    price: 310000,
+    price: 330000,
     days: [2, 4],
   },
 ];
